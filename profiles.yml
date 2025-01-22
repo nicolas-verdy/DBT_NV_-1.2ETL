@@ -8,7 +8,7 @@ dbt_quest:
       database: my_dbt_db
       schema: my_dbt_db
       username: nverdy
-      password: Jules2024
+      password: ******
       driver: MySQL ODBC 8.0 ANSI Driver
     prod:
       type: mysql
